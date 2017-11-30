@@ -12,4 +12,7 @@ Slash command for Slack, retrieves past hyperlinks that have posted in the chann
 * specify the number of links to retrieve
 
 # why?
-Because I found myself wasting time searching for useful links that my teammates had posted long ago
+* I found myself wasting time searching for useful links that my teammates had posted long ago
+* I wanted to learn Go
+
+*hosted on Google App Engine
