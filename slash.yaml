@@ -1,0 +1,6 @@
+#Replace the application id below with yours
+runtime: go
+api_version: go1
+handlers:
+- url: /.*
+  script: _go_app
