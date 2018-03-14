@@ -4,9 +4,6 @@ Slash command for Slack, retrieves past hyperlinks that have posted in the chann
 # usage
 \links
 
-# current functionality
-* None yet
-
 # future functionality
 * retrieve links that have been posted in whatever channel the command is issued from
 * specify the number of links to retrieve
